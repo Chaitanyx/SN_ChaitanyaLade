@@ -11,7 +11,7 @@ Guest portal with restricted, time-bound access
 
 VPN (WireGuard) for secure remote connectivity
 
-HTTPS with Nginx and Let’s Encrypt
+HTTPS with Nginx and Encryption
 
 Encrypted storage for sensitive data
 
